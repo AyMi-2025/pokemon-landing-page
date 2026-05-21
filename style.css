@@ -1,0 +1,120 @@
+*{
+    margin: 0px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.container{
+    height:100vh;
+    width:100%;
+    display: flex;
+}
+
+
+.left-panel{
+    position: relative;
+    width:60%;
+    height:620px;
+    background-color: rgb(255, 174, 0);
+    border-top-left-radius: 14px;
+    border-bottom-left-radius: 14px;
+}
+
+h5{
+    position: relative;
+    top: 60px;
+    margin-left: 25px;
+    font-size: 12px;
+    word-spacing:3px;
+    font-weight: 999;
+    display: flex;
+    padding-bottom: 7px;
+}
+
+h2{
+    padding-top:0px;
+    margin-top: 40px;
+    margin-bottom: 2px;
+    margin-left: 35px;
+    font-size: 130px;
+    padding-bottom: 0px;
+}
+
+h6{
+    margin-top: 3px;
+    margin-left: 35px;
+    font-size: 15px;
+    padding-top: 0px;
+}
+
+p{
+   position: relative;
+    top: 10px;
+    margin-left: 30px;
+    font-size: 18px;
+    word-spacing:3px;
+    font-weight: 999;
+    display: flex;
+} 
+
+.pikachu{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+}
+
+#pokeball{
+    margin-left: 16px;
+    margin-top: 19px;
+}
+
+.right-panel{
+    position: relative;
+    width:40%;
+    height:620px;
+    background-color: rgb(254, 229, 104);
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+
+#menu{
+    height: 53px;
+    margin-top: 7px;
+    margin-left: 430px;
+}
+
+
+#fill-circle{
+    margin-left: 460px;
+    margin-top: 170px;
+    margin-bottom: 0px;
+    width: 35px;
+}
+
+#line-circle1{
+    margin-left: 460px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 33px;
+}
+
+#line-circle2{
+    margin-left: 460px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 33px;
+}
+
+#line-circle3{
+    margin-left: 460px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 33px;
+}
+
+#line-circle4{
+    margin-left: 460px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 33px;
+}
